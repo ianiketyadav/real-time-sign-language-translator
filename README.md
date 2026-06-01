@@ -53,6 +53,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Repository Notes
+
+* Trained model files are included in the `model` folder.
+* Dataset and generated landmark files are not included due to repository size limitations.
+* The project can be retrained using `create_landmarks.py` and `train_model.py`.
+
+
 ## Project Report
 
 Complete project documentation is available inside the `docs` folder.
